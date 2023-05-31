@@ -36,4 +36,4 @@ Python,Jupyter Notebook, Visual Studio Code, Numpy, Pandas, Matplotlib, Seaborn,
 
 ## Reference
 
-Canvas at rice. Learning Environments | Office of Information Technology | Rice University. (n.d.). Retrieved May 5, 2022, from https://canvas.rice.edu/courses/47457 
+Canvas at rice. Learning Environments | Office of Information Technology | Rice University. (n.d.). Retrieved May 5, 2023, from https://canvas.rice.edu/courses/47457 
