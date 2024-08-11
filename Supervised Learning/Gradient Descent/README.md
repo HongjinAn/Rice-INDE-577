@@ -18,7 +18,7 @@ A function has to be:
 
 ## Dataset
 
-Random generated numberical data.
+Random generated numerical data.
 
 ## Reference
 
